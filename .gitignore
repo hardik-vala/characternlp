@@ -1,0 +1,17 @@
+.DS_Store
+
+data/
+
+*.iml
+.idea/
+
+*.pyc
+
+files/*
+!files/README.txt
+
+lib/
+out/
+project/
+results/
+target/
