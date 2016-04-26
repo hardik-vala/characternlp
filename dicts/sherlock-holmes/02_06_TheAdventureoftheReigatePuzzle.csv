@@ -1,0 +1,32 @@
+character,value,rule,identification,role,notes
+1,Watson,1,TRUE,narrator,
+2,Sherlock Holmes,1,TRUE,detective,
+2,Holmes,1,FALSE,,
+3,Baron Maupertuis,1,TRUE,,
+4,Colonel Hayter,1,TRUE,,
+4,Colonel,1,FALSE,,
+4,Hayter,1,FALSE,,
+5,Old Acton,1,TRUE,,
+5,Mr. Acton,1,FALSE,,
+6,butler,1,TRUE,,
+7,J.P.,1,TRUE,perp,"At the beginning of the story, both Old and young Cunningham are the “victims” of a burglary, however as the story unfolds we find out that they are actually setting up a non-existing “burglar”"
+7,Old Cunningham,1,FALSE,,
+7,Mr. Cunningham,1,FALSE,,
+7,older man,1,FALSE,,
+8,Alec Cunningham,1,TRUE,perp,
+8,son,1,FALSE,,
+8,Mr. Alec,1,FALSE,,
+8,Master Alec,1,FALSE,,
+9,William,1,TRUE,,
+9,coachman,1,FALSE,,
+9,William Kirwan,1,FALSE,victim,
+9,the dead man,1,FALSE,,
+9,servant,1,FALSE,,
+10,burglar,1,TRUE,perp,"This character is fictional, he does not exist physically and was made up by Old and young Cunningham to cover up their own crimes."
+10,villain,1,FALSE,,
+10,murderer,1,FALSE,,
+10,thief,1,FALSE,,
+11,Inspector Forrester,1,TRUE,,
+11,Inspector,1,FALSE,,
+11,official,1,FALSE,,Not sure if “official” refers to 
+12,mother,1,TRUE,,William's mom
